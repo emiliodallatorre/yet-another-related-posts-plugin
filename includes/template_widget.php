@@ -12,8 +12,8 @@ if (have_posts()) {
 		
 		$output .= '<li><a href="'.get_permalink().'" rel="bookmark">'.get_the_title().'</a>';
 //		$output .= ' ('.round(get_the_score(),3).')';
-		$output .= '</li>';
 		$output .= '<br>'.$excerpt;
+		$output .= '</li>';
 	}
 	$output .= '</ol>';
 } else {
