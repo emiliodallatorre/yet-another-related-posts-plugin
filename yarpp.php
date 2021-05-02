@@ -3,7 +3,7 @@
 Plugin Name: Yet Another Related Posts Plugin
 Description: Adds related posts to your site and in RSS feeds, based on a powerful, customizable algorithm.
 Version: 6.0.0
-Author: Jeff Parker, Michael Nelson
+Author: Jeff Parker, Michael Nelson, Emilio Dalla Torre
 Author URI: https://emiliodallatorre.it
 Plugin URI: https://github.com/emiliodallatorre/yet-another-related-posts-plugin
 ----------------------------------------------------------------------------------------------------------------------*/
